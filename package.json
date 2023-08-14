@@ -4,12 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon main.js"
-=======
-    "start": "noden main.js"
->>>>>>> idanbg
+    "start": "node main.js"
   },
   "author": "",
   "license": "ISC",
